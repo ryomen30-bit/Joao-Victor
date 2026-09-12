@@ -77,4 +77,4 @@
 ### 💻 <font color="#00f2fe">TERMINAL // CURRENT_OBJECTIVES</font>
 
 ```console
-usr@jar
+João Victor 
